@@ -1,0 +1,7 @@
+1、git ok
+2、模块化 learing
+3、go
+4、SQL
+5、anglur复习
+6、bootstrap复习
+7、php
